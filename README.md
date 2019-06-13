@@ -10,7 +10,8 @@ General Assembly SEI.22 June 12 - Project 1
 - GitHub: https://github.com/nayefsayar/project1
 
 ## Overview
-
+Teach developers how to quickly, and concisely convey their project on a high level
+Encourage developer to developer interaction regarding their projects through Q & A
 
 ## How to play
 1.
