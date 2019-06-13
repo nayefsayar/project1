@@ -1,0 +1,37 @@
+/* main {
+    display: flex;
+    justify-content: space-around;
+} */
+
+#grid {
+    display: grid;
+    /* grid-template-columns: repeat(4, 1fr); */
+    grid-template-rows: repeat(4, 1fr);
+    /* grid-gap: 15px; */
+    /* min-width: 100vh; */
+}
+
+#hangman {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+h1 {
+
+}
+
+h2 {
+    
+}
+
+#correctguess {
+
+}
+
+#incorrectguess {
+
+}
+
+#startgame {
+
+}
