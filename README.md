@@ -15,7 +15,7 @@ Encourage developer to developer interaction regarding their projects through Q 
 
 ## How to play
 1.
-
+To play this game,
 
 ## Wireframe
 
@@ -23,7 +23,7 @@ Encourage developer to developer interaction regarding their projects through Q 
 ## Technologies Used
 - 
 
-## Future Developments/Improvements
+## Future Developments/Improvementsgg
 
 #### Phase 1
 - 
